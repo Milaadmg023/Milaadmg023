@@ -11,7 +11,7 @@ I believe in lifelong learning and continuous improvement. That's why I'm on a q
 ## Let's Connect
 If you're interested in collaborating or just want to say hi, feel free to reach out to me!
 
-- 📫 How to reach me: bagerim962@gmail.com
+- 📫 Email: bagerim962@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/milad-bageri-99b6aa274/
 - 💼 Portfolio: https://milad-bageri.vercel.app/
 
